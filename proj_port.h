@@ -10,6 +10,14 @@
 #include "../mcal/MCAL_GPIO/mcal_gpio.h"
 
 /* LEDS */
-/* Add led porting here*/
+/* Add led porting here */
+
+/* SSDs */
+
+/** Segments **/
+/* Add segments porting here */
+
+/** Control **/
+/* Add control porting here */
 
 #endif
